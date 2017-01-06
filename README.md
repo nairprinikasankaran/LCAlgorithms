@@ -1,2 +1,2 @@
 # LCAlgorithms
-# Solutions to leetcode problem statements
+Solutions to leetcode problem statements
